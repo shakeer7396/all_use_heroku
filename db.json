@@ -122,6 +122,16 @@
               "price": 154,
               "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40121/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-1500-ml-2-1643880736.jpg"
             }
+          ],
+
+          "form-data":[
+            {
+              "email":"",
+              "name":"",
+              "phone":"",
+              "address":""
+            }
+            
           ]
       }
   
