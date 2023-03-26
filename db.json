@@ -126,10 +126,9 @@
 
           "form-data":[
             {
-              "email":"",
               "name":"",
-              "phone":"",
-              "address":""
+              "email":"",
+              "message":""
             }
             
           ]
